@@ -1,0 +1,113 @@
+{
+  "profile_id": "john-smith",
+  "basics": {
+    "name": "John Smith",
+    "headline": "Senior Software Engineer at Tech Company",
+    "location": "San Francisco Bay Area",
+    "summary": "Experienced software engineer with 10+ years in full-stack development, specializing in cloud solutions and distributed systems.",
+    "profile_url": "https://linkedin.com/in/john-smith",
+    "captured_at": "2025-04-27T10:30:00.000Z"
+  },
+  "contact_info": {
+    "email": "jsmith@example.com",
+    "phone": "+1234567890",
+    "websites": ["https://johnsmith.dev"],
+    "twitter": "@johnsmith"
+  },
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "Tech Company",
+      "location": "San Francisco, CA",
+      "duration": "Jan 2020 - Present",
+      "description": "Leading development of cloud-native applications and microservices architecture."
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Startup Inc",
+      "location": "Seattle, WA",
+      "duration": "Mar 2017 - Dec 2019",
+      "description": "Developed web applications using React, Node.js, and AWS."
+    },
+    {
+      "title": "Junior Developer",
+      "company": "Small Business Solutions",
+      "location": "Portland, OR",
+      "duration": "Jun 2015 - Feb 2017",
+      "description": "Built and maintained client websites and internal tools."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "Stanford University",
+      "date_range": "2013 - 2015",
+      "description": "Focus on distributed systems and artificial intelligence."
+    },
+    {
+      "degree": "Bachelor of Science in Computer Engineering",
+      "institution": "University of Washington",
+      "date_range": "2009 - 2013",
+      "description": "Graduated magna cum laude. Minor in Mathematics."
+    }
+  ],
+  "skills": [
+    "JavaScript", "Python", "React", "Node.js", "AWS", 
+    "Docker", "Kubernetes", "Microservices", "CI/CD", 
+    "System Design", "Database Design", "REST APIs"
+  ],
+  "languages": [
+    {"language": "English", "proficiency": "Native"},
+    {"language": "Spanish", "proficiency": "Professional working proficiency"},
+    {"language": "Mandarin", "proficiency": "Elementary proficiency"}
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect - Professional",
+      "issuer": "Amazon Web Services",
+      "date": "2023"
+    },
+    {
+      "name": "Google Cloud Professional Cloud Architect",
+      "issuer": "Google Cloud",
+      "date": "2022"
+    },
+    {
+      "name": "Certified Kubernetes Administrator (CKA)",
+      "issuer": "Cloud Native Computing Foundation",
+      "date": "2021"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Distributed Task Queue",
+      "description": "Open-source task queue system built with Go and Redis",
+      "url": "https://github.com/john-smith/taskqueue"
+    },
+    {
+      "name": "Personal Website",
+      "description": "Portfolio website built with Next.js and Tailwind CSS",
+      "url": "https://johnsmith.dev"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimizing Microservice Communication Patterns",
+      "publisher": "Tech Conference 2022",
+      "date": "2022",
+      "url": "https://example.com/publication1"
+    }
+  ],
+  "recommendations": [
+    {
+      "author": "Jane Doe",
+      "relationship": "Former Manager at Startup Inc",
+      "text": "John is an exceptional engineer with great attention to detail and problem-solving skills."
+    },
+    {
+      "author": "Michael Johnson",
+      "relationship": "Colleague at Tech Company",
+      "text": "Working with John has been a great experience. His technical knowledge and collaborative approach make him a valuable team member."
+    }
+  ]
+}
