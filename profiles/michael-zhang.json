@@ -1,0 +1,113 @@
+{
+  "profile_id": "michael-zhang",
+  "basics": {
+    "name": "Michael Zhang",
+    "headline": "Full Stack Developer & DevOps Engineer",
+    "location": "Seattle, WA",
+    "summary": "Versatile full stack developer with expertise in cloud infrastructure, containerization, and CI/CD pipelines. Passionate about building scalable and resilient systems.",
+    "profile_url": "https://linkedin.com/in/michael-zhang",
+    "captured_at": "2025-04-30T09:15:00.000Z"
+  },
+  "contact_info": {
+    "email": "michael.zhang@example.com",
+    "phone": "+12065551234",
+    "websites": ["https://michaelzhang.dev"],
+    "twitter": "@mzhang_dev"
+  },
+  "experience": [
+    {
+      "title": "Senior DevOps Engineer",
+      "company": "Cloud Solutions Inc",
+      "location": "Seattle, WA",
+      "duration": "May 2022 - Present",
+      "description": "Leading infrastructure automation and implementing GitOps practices across the organization."
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Web Innovations",
+      "location": "Portland, OR",
+      "duration": "Jan 2019 - Apr 2022",
+      "description": "Developed and maintained web applications using React, Node.js, and AWS services."
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Tech Startup",
+      "location": "San Francisco, CA",
+      "duration": "Jun 2017 - Dec 2018",
+      "description": "Built microservices architecture and implemented continuous deployment pipelines."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science in Computer Science",
+      "institution": "University of Washington",
+      "date_range": "2015 - 2017",
+      "description": "Focus on distributed systems and cloud computing."
+    },
+    {
+      "degree": "Bachelor of Engineering in Software Engineering",
+      "institution": "Beijing University of Technology",
+      "date_range": "2011 - 2015",
+      "description": "Graduated with honors. Minor in Mathematics."
+    }
+  ],
+  "skills": [
+    "JavaScript", "TypeScript", "React", "Node.js", "Python", 
+    "Docker", "Kubernetes", "AWS", "Azure", "Terraform", 
+    "CI/CD", "GitOps", "Microservices", "MongoDB", "PostgreSQL"
+  ],
+  "languages": [
+    {"language": "English", "proficiency": "Professional working proficiency"},
+    {"language": "Mandarin Chinese", "proficiency": "Native"},
+    {"language": "Cantonese", "proficiency": "Professional working proficiency"}
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified DevOps Engineer - Professional",
+      "issuer": "Amazon Web Services",
+      "date": "2023"
+    },
+    {
+      "name": "Certified Kubernetes Administrator (CKA)",
+      "issuer": "Cloud Native Computing Foundation",
+      "date": "2022"
+    },
+    {
+      "name": "Microsoft Certified: Azure DevOps Engineer Expert",
+      "issuer": "Microsoft",
+      "date": "2021"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Kubernetes Operator Framework",
+      "description": "Open-source framework for building Kubernetes operators",
+      "url": "https://github.com/mzhang/k8s-operator-framework"
+    },
+    {
+      "name": "Infrastructure as Code Templates",
+      "description": "Collection of Terraform modules for common cloud infrastructure patterns",
+      "url": "https://github.com/mzhang/iac-templates"
+    }
+  ],
+  "publications": [
+    {
+      "title": "GitOps: The Future of Infrastructure Automation",
+      "publisher": "DevOps Conference 2023",
+      "date": "2023",
+      "url": "https://example.com/gitops-paper"
+    }
+  ],
+  "recommendations": [
+    {
+      "author": "Sarah Johnson",
+      "relationship": "Manager at Cloud Solutions Inc",
+      "text": "Michael is an exceptional engineer with deep technical knowledge and a talent for simplifying complex systems."
+    },
+    {
+      "author": "David Lee",
+      "relationship": "Colleague at Web Innovations",
+      "text": "Working with Michael was a great learning experience. His approach to problem-solving and attention to detail are outstanding."
+    }
+  ]
+}

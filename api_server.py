@@ -10,19 +10,7 @@ from fastapi import FastAPI, HTTPException, Body
 from pydantic import BaseModel
 import uvicorn
 import json
-# Try to import ProfileQueryProcessor
-try:
-    from query_processor import ProfileQueryProcessor
-except ModuleNotFoundError:
-    # Try with hyphen in filename
-    import importlib.util
-    import sys
-
-    spec = importlib.util.spec_from_file_location("query_processor", "query-processor.py")
-    query_processor = importlib.util.module_from_spec(spec)
-    sys.modules["query_processor"] = query_processor
-    spec.loader.exec_module(query_processor)
-    ProfileQueryProcessor = query_processor.ProfileQueryProcessor
+from query_processor import ProfileQueryProcessor
 
 app = FastAPI(
     title="LinkedIn Profile Query Bot API",

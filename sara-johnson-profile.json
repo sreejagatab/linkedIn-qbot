@@ -1,0 +1,125 @@
+{
+  "profile_id": "sara-johnson",
+  "basics": {
+    "name": "Sara Johnson",
+    "headline": "Data Scientist at AI Research Lab",
+    "location": "Boston, MA",
+    "summary": "Experienced data scientist with expertise in machine learning and AI, focusing on natural language processing and computer vision applications.",
+    "profile_url": "https://linkedin.com/in/sara-johnson",
+    "captured_at": "2025-04-30T08:00:00.000Z"
+  },
+  "contact_info": {
+    "email": "sjohnson@example.com",
+    "phone": "+1987654321",
+    "websites": ["https://sarajohnson.ai"],
+    "twitter": "@saraj_ai"
+  },
+  "experience": [
+    {
+      "title": "Senior Data Scientist",
+      "company": "AI Research Lab",
+      "location": "Boston, MA",
+      "duration": "Mar 2021 - Present",
+      "description": "Leading research in NLP and developing machine learning models for enterprise applications."
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Tech Innovations Inc",
+      "location": "New York, NY",
+      "duration": "Jan 2018 - Feb 2021",
+      "description": "Developed predictive models and data pipelines for financial services clients."
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Analytics Firm",
+      "location": "Chicago, IL",
+      "duration": "Jun 2016 - Dec 2017",
+      "description": "Performed statistical analysis and created data visualizations for business insights."
+    }
+  ],
+  "education": [
+    {
+      "degree": "PhD in Computer Science",
+      "institution": "MIT",
+      "date_range": "2013 - 2016",
+      "description": "Focus on machine learning and artificial intelligence."
+    },
+    {
+      "degree": "Master of Science in Statistics",
+      "institution": "Harvard University",
+      "date_range": "2011 - 2013",
+      "description": "Specialized in statistical modeling and data analysis."
+    },
+    {
+      "degree": "Bachelor of Science in Mathematics",
+      "institution": "Cornell University",
+      "date_range": "2007 - 2011",
+      "description": "Minor in Computer Science."
+    }
+  ],
+  "skills": [
+    "Machine Learning", "Python", "TensorFlow", "PyTorch", "Natural Language Processing",
+    "Computer Vision", "Data Analysis", "Statistical Modeling", "SQL", "Big Data",
+    "Deep Learning", "R", "Data Visualization"
+  ],
+  "languages": [
+    {"language": "English", "proficiency": "Native"},
+    {"language": "French", "proficiency": "Professional working proficiency"},
+    {"language": "German", "proficiency": "Elementary proficiency"}
+  ],
+  "certifications": [
+    {
+      "name": "Google Professional Machine Learning Engineer",
+      "issuer": "Google Cloud",
+      "date": "2022"
+    },
+    {
+      "name": "AWS Certified Machine Learning - Specialty",
+      "issuer": "Amazon Web Services",
+      "date": "2021"
+    },
+    {
+      "name": "Deep Learning Specialization",
+      "issuer": "Coursera/DeepLearning.AI",
+      "date": "2020"
+    }
+  ],
+  "projects": [
+    {
+      "name": "NLP Framework for Healthcare",
+      "description": "Open-source framework for processing medical text data",
+      "url": "https://github.com/sara-johnson/healthcare-nlp"
+    },
+    {
+      "name": "Computer Vision for Retail Analytics",
+      "description": "System for analyzing customer behavior in retail environments",
+      "url": "https://github.com/sara-johnson/retail-vision"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Advances in Transfer Learning for NLP Applications",
+      "publisher": "Journal of Machine Learning Research",
+      "date": "2023",
+      "url": "https://example.com/publication1"
+    },
+    {
+      "title": "Efficient Deep Learning Models for Edge Devices",
+      "publisher": "Conference on Neural Information Processing Systems",
+      "date": "2022",
+      "url": "https://example.com/publication2"
+    }
+  ],
+  "recommendations": [
+    {
+      "author": "John Davis",
+      "relationship": "Former Manager at Tech Innovations Inc",
+      "text": "Sara is an exceptional data scientist with deep technical knowledge and excellent communication skills."
+    },
+    {
+      "author": "Emily Chen",
+      "relationship": "Colleague at AI Research Lab",
+      "text": "Working with Sara has been incredibly valuable. Her expertise in machine learning and ability to solve complex problems is outstanding."
+    }
+  ]
+}

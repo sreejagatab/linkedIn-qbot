@@ -1,0 +1,119 @@
+{
+  "profile_id": "priya-patel",
+  "basics": {
+    "name": "Priya Patel",
+    "headline": "Product Manager & UX Strategist",
+    "location": "Austin, TX",
+    "summary": "Experienced product manager with a background in UX design and market research. Passionate about creating user-centered products that solve real problems.",
+    "profile_url": "https://linkedin.com/in/priya-patel",
+    "captured_at": "2025-04-30T10:30:00.000Z"
+  },
+  "contact_info": {
+    "email": "priya.patel@example.com",
+    "phone": "+15125557890",
+    "websites": ["https://priyapatel.co"],
+    "twitter": "@priya_product"
+  },
+  "experience": [
+    {
+      "title": "Senior Product Manager",
+      "company": "TechSolutions Inc",
+      "location": "Austin, TX",
+      "duration": "Feb 2021 - Present",
+      "description": "Leading product strategy and roadmap development for a SaaS platform with over 500,000 users."
+    },
+    {
+      "title": "Product Manager",
+      "company": "Digital Innovations",
+      "location": "Chicago, IL",
+      "duration": "Mar 2018 - Jan 2021",
+      "description": "Managed the development of mobile applications and conducted user research to inform product decisions."
+    },
+    {
+      "title": "UX Designer",
+      "company": "Creative Agency",
+      "location": "New York, NY",
+      "duration": "Jul 2016 - Feb 2018",
+      "description": "Created user flows, wireframes, and prototypes for web and mobile applications."
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA with focus on Technology Management",
+      "institution": "University of Texas at Austin",
+      "date_range": "2014 - 2016",
+      "description": "President of Product Management Club. Participated in startup incubator program."
+    },
+    {
+      "degree": "Bachelor of Fine Arts in Graphic Design",
+      "institution": "Rhode Island School of Design",
+      "date_range": "2010 - 2014",
+      "description": "Minor in Digital Media. Dean's List all semesters."
+    }
+  ],
+  "skills": [
+    "Product Strategy", "User Research", "Market Analysis", "Agile Methodologies", 
+    "Wireframing", "Prototyping", "A/B Testing", "Data Analysis", 
+    "Stakeholder Management", "Product Roadmapping", "Figma", "Jira", "SQL"
+  ],
+  "languages": [
+    {"language": "English", "proficiency": "Native"},
+    {"language": "Hindi", "proficiency": "Native"},
+    {"language": "Spanish", "proficiency": "Intermediate"}
+  ],
+  "certifications": [
+    {
+      "name": "Certified Scrum Product Owner (CSPO)",
+      "issuer": "Scrum Alliance",
+      "date": "2022"
+    },
+    {
+      "name": "Professional Product Manager (PPM)",
+      "issuer": "Product School",
+      "date": "2020"
+    },
+    {
+      "name": "Google Analytics Certification",
+      "issuer": "Google",
+      "date": "2019"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Healthcare App Redesign",
+      "description": "Led the redesign of a healthcare app that increased user engagement by 45%",
+      "url": "https://priyapatel.co/case-studies/healthcare-app"
+    },
+    {
+      "name": "Product Management Mentorship Program",
+      "description": "Founded a mentorship program for aspiring product managers",
+      "url": "https://pmmentorship.org"
+    }
+  ],
+  "publications": [
+    {
+      "title": "User-Centered Product Development: A Practical Guide",
+      "publisher": "Product Management Journal",
+      "date": "2023",
+      "url": "https://example.com/user-centered-product"
+    },
+    {
+      "title": "Bridging Design and Business: The Role of Product Management",
+      "publisher": "UX Conference 2022",
+      "date": "2022",
+      "url": "https://example.com/bridging-design-business"
+    }
+  ],
+  "recommendations": [
+    {
+      "author": "Alex Rodriguez",
+      "relationship": "VP of Product at TechSolutions Inc",
+      "text": "Priya is an exceptional product manager who combines strategic thinking with a deep understanding of user needs."
+    },
+    {
+      "author": "Jennifer Kim",
+      "relationship": "UX Director at Digital Innovations",
+      "text": "Working with Priya was a pleasure. Her ability to translate user research into actionable product requirements is outstanding."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "profile_id": "james-wilson",
+  "basics": {
+    "name": "James Wilson",
+    "headline": "Marketing Director & Growth Strategist",
+    "location": "London, UK",
+    "summary": "Strategic marketing leader with over 15 years of experience in digital marketing, brand development, and growth strategy across B2B and B2C sectors.",
+    "profile_url": "https://linkedin.com/in/james-wilson",
+    "captured_at": "2025-04-30T11:45:00.000Z"
+  },
+  "contact_info": {
+    "email": "james.wilson@example.com",
+    "phone": "+447700900123",
+    "websites": ["https://jameswilson.marketing"],
+    "twitter": "@jwilson_mktg"
+  },
+  "experience": [
+    {
+      "title": "Marketing Director",
+      "company": "Global Tech Enterprises",
+      "location": "London, UK",
+      "duration": "Jan 2020 - Present",
+      "description": "Leading global marketing strategy and overseeing a team of 25 marketing professionals across digital, content, and brand marketing."
+    },
+    {
+      "title": "Head of Digital Marketing",
+      "company": "European Retail Group",
+      "location": "Manchester, UK",
+      "duration": "Mar 2016 - Dec 2019",
+      "description": "Developed and executed digital marketing strategies that increased online sales by 78% over three years."
+    },
+    {
+      "title": "Marketing Manager",
+      "company": "Consumer Goods Ltd",
+      "location": "Birmingham, UK",
+      "duration": "Jun 2012 - Feb 2016",
+      "description": "Managed product launches and marketing campaigns for consumer products across the UK market."
+    },
+    {
+      "title": "Marketing Specialist",
+      "company": "Marketing Agency",
+      "location": "London, UK",
+      "duration": "Aug 2009 - May 2012",
+      "description": "Developed marketing strategies and campaigns for clients across various industries."
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration (MBA)",
+      "institution": "London Business School",
+      "date_range": "2007 - 2009",
+      "description": "Specialization in Marketing and Strategy. Graduated with distinction."
+    },
+    {
+      "degree": "Bachelor of Arts in Business and Marketing",
+      "institution": "University of Manchester",
+      "date_range": "2003 - 2007",
+      "description": "First Class Honours. President of Marketing Society."
+    }
+  ],
+  "skills": [
+    "Digital Marketing Strategy", "Brand Development", "Market Research", 
+    "Content Marketing", "SEO/SEM", "Social Media Marketing", "Email Marketing", 
+    "Marketing Analytics", "Team Leadership", "Budget Management", 
+    "Campaign Planning", "CRM", "Marketing Automation"
+  ],
+  "languages": [
+    {"language": "English", "proficiency": "Native"},
+    {"language": "French", "proficiency": "Professional working proficiency"},
+    {"language": "German", "proficiency": "Elementary proficiency"}
+  ],
+  "certifications": [
+    {
+      "name": "Chartered Marketer",
+      "issuer": "Chartered Institute of Marketing",
+      "date": "2018"
+    },
+    {
+      "name": "Google Ads Certification",
+      "issuer": "Google",
+      "date": "2022"
+    },
+    {
+      "name": "HubSpot Marketing Software Certification",
+      "issuer": "HubSpot Academy",
+      "date": "2021"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Global Brand Refresh",
+      "description": "Led a comprehensive brand refresh that increased brand recognition by 35%",
+      "url": "https://jameswilson.marketing/case-studies/global-brand-refresh"
+    },
+    {
+      "name": "Digital Transformation Initiative",
+      "description": "Spearheaded digital transformation of marketing operations, resulting in 40% increase in marketing ROI",
+      "url": "https://jameswilson.marketing/case-studies/digital-transformation"
+    }
+  ],
+  "publications": [
+    {
+      "title": "The Future of Digital Marketing in a Post-Cookie World",
+      "publisher": "Marketing Today Magazine",
+      "date": "2023",
+      "url": "https://example.com/post-cookie-marketing"
+    },
+    {
+      "title": "Building Brand Loyalty in the Digital Age",
+      "publisher": "European Marketing Conference",
+      "date": "2022",
+      "url": "https://example.com/brand-loyalty-digital"
+    }
+  ],
+  "recommendations": [
+    {
+      "author": "Elizabeth Parker",
+      "relationship": "CEO at Global Tech Enterprises",
+      "text": "James is an exceptional marketing leader who has transformed our brand presence and significantly contributed to our business growth."
+    },
+    {
+      "author": "Robert Chen",
+      "relationship": "CMO at European Retail Group",
+      "text": "James's strategic vision and execution skills are outstanding. His digital marketing initiatives delivered exceptional results for our company."
+    },
+    {
+      "author": "Sarah Thompson",
+      "relationship": "Marketing Director at Industry Association",
+      "text": "James is one of the most innovative marketing minds I've worked with. His insights and approach to marketing challenges are always fresh and effective."
+    }
+  ]
+}
